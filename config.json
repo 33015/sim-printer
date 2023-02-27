@@ -1,0 +1,19 @@
+{
+    "printers": [
+        {
+            "printertype": "raw",
+            "port": "9101",
+            "name": "Tray1"
+        },
+        {
+            "printertype": "raw",
+            "port": "9102",
+            "name": "Tray2"
+        },
+        {
+            "printertype": "lpr",
+            "port": "5150",
+            "name": "192.168.0.103"
+        }
+    ]
+}
